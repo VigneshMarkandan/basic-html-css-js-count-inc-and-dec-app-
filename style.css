@@ -1,0 +1,40 @@
+#count{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+#buttons{
+    text-align: center;
+  
+    
+}
+#decrease{
+    padding: 10px 20px;
+    color: black;
+    background-color:  rgb(195, 242, 242);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color o.025s;
+
+}
+#increase{
+    padding: 10px 20px;
+    color:black;
+    background-color: rgb(195, 242, 242);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color o.025s;
+  
+
+}
+#reset{
+    padding: 10px 20px;
+    color: black;
+    background-color:  rgb(195, 242, 242);
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color o.025s;
+
+}
